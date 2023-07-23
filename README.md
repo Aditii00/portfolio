@@ -2,7 +2,7 @@
  Simple, clean and responsive portfolio to show off your skills
  
  ### live demo
- https://epsilondev98.github.io/portfolioEpsilon/
+ https://aditii00.github.io/portfolio/
  
  
  #### suggestions are WELCOME!!
