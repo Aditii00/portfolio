@@ -1,6 +1,5 @@
 # Portfolio
- Simple, clean and responsive portfolio to show off your skills
- 
+ Simple, clean and responsive portfolio 
  ### live demo
  https://aditii00.github.io/portfolio/
  
